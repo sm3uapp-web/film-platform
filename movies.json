@@ -1,1 +1,7 @@
-
+[
+  {
+    "title": "Test Film",
+    "poster": "https://picsum.photos/300/450",
+    "stream": "https://ornek-site.com/video.m3u8"
+  }
+]
